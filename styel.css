@@ -1,0 +1,24 @@
+*{
+    margin: 0%;
+}
+nav{
+  padding:5px 100px 5px 150px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: rgb(247, 179, 134);
+    /* background-color: #2e885e; */
+    /* border: solid black; */
+font-style: italic;
+color: black;
+}
+nav div{
+display: flex;
+gap: 100px;
+
+}
+.card-one{
+display: flex;
+align-items: center;
+justify-content: space-evenly;
+background-color: rgb(10, 58, 41);
